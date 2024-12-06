@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: An overview of projects I have worked on.
-nav: true
+nav: false
 display_categories: [research]
 horizontal: false
 ---

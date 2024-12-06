@@ -9,9 +9,9 @@ description: A short version of my CV. Reach out to me through e-mail for a deta
 <h3 class="post-title">Work Experience</h3>
 * __2020 - Present: PhD Student at Vrije Universiteit Amsterdam__
     * Generalizability of NLP Experiments
-* __2023 June - September: Visiting Researcher at DILL Lab, USC__
+* __2023 June - September: Visiting Researcher at DILL Lab, University of Southern California__
     * Worked with Swabha Swayamdipta on crowd-based calibration, [paper published at COLM 2024](https://arxiv.org/abs/2408.14141)
-* __2019 - 2020: Machine Learning Engineer at Sensity__ 
+* __2019 - 2020: Machine Learning Engineer at Sensity AI__ 
     * Developed deep learning algorithms and deployed models for deepfake detection
 * __2016 - 2019: Teaching Assistant Second Year BSc Artificial Intelligence at University of Amsterdam__
     * Kennissystemen (Knowledge Systems) 
@@ -37,6 +37,14 @@ description: A short version of my CV. Reach out to me through e-mail for a deta
     * Worked on AI project on predicting multiple target features (document attributes) for structured documents.
     * Supervised by dr. Nidhi Tiwari
     
+<h3 class="post-title">Extracurricular Activities</h3>
+* __January 2024: Co-organizer HumanCLAIM Workshop at Vrije Universiteit Amsterdam__
+    * [Workshop on the human perspective on cross-lingual AI models](https://clap-lab.github.io/workshop2024.html)
+* __2024: Attended The 1st ELLIS Winter School on Foundation Models__
+* __2021 - 2023: Inclusive AI Board Member at University of Amsterdam__
+* __2021 - 2023: Organizer of CLTaLk; seminar series at CLTL__
+* __2022: Attended The 12th Lisbon Machine Learning Summer School__
+
 <h3 class="post-title">Education</h3>
 * __2017 - 2019: MSc Artificial Intelligence at University of Amsterdam__
 * __2014 - 2017: BSc Artificial Intelligence at University of Amsterdam__

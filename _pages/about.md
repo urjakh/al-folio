@@ -34,8 +34,7 @@ characterized the [subjective aspects of hate speech and its impact on real-worl
 Building on these insights, I developed a [framework to evaluate if a hate speech detection model’s 
 behavior aligns with the type of hate speech it is intended to address](https://arxiv.org/abs/2410.15911). 
 
-I earned my BSc and MSc degrees in Artificial Intelligence from the University of Amsterdam, where I worked on detecting fake news and deepfakes. I continued developing deepfakes detection models at [Sensity AI](https://sensity.ai/) before starting my PhD journey. 
-
+I earned my BSc and MSc degrees in Artificial Intelligence from the University of Amsterdam.
 #### research interests.
 Making a _positive_ impact is what drives me. Hence, the following research topics and questions 
 are (amongst others) what my current interests are and what I want to work on in the future: 
